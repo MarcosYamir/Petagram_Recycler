@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="texto_titulo">Petagram</string>
+    <string name="texto_boton_click">Click</string>
+    <string name="mensajeFab">Se marco como Favorito</string>
+    <string name="texto_accion">Accion</string>
+    </resources>
